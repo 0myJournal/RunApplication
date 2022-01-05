@@ -1,0 +1,1 @@
+<input type="button" value="Hello" class="  bg-blue-200 rounded-xl shadow-xl hover:bg-blue-500 transition duration-500 ease-in-out transform p-2 hover:text-white">
